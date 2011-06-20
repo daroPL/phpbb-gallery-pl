@@ -1,0 +1,13 @@
+Subject: Powiadomienie o nowym komentarzu - „{IMAGE_NAME}”
+
+Witaj {USERNAME},
+
+Ta wiadomość została do Ciebie wysłana, ponieważ obserwujesz album „{ALBUM_NAME}” na „{SITENAME}”. Od czasu Twojej ostatniej wizyty do albumu został dodany nowy obrazek „{IMAGE_NAME}”. Możesz użyć poniższego odnośnika, aby zobaczyć album.
+
+{U_ALBUM}
+
+Jeśli nie chcesz już obserwować tego albumu, kliknij odnośnik „Nie obserwuj albumu” znajdujący się na dole witryny lub poniższy odnośnik:
+
+{U_STOP_WATCHING_ALBUM}
+
+{EMAIL_SIG}

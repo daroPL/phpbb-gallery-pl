@@ -1,0 +1,13 @@
+Subject: Powiadomienie o nowym komentarzu - „{IMAGE_NAME}”
+
+Witaj {USERNAME},
+
+Ta wiadomość została do Ciebie wysłana, ponieważ obserwujesz obrazek „{IMAGE_NAME}” na „{SITENAME}”. Obrazek został skomentowany od czasu Twojej ostatniej wizyty. Możesz użyć poniższego odnośnika, aby przeczytać komentarz.
+
+{U_IMAGE}
+
+Jeśli nie chcesz już obserwować tego obrazka, kliknij odnośnik „Nie obserwuj obrazka” znajdujący się na dole witryny lub poniższy odnośnik:
+
+{U_STOP_WATCHING_IMAGE}
+
+{EMAIL_SIG}
